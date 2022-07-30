@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Nata",
+    "surname": "Marchuk",
+    "workingdays": 22,
+    "rate": 100
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "surname": "Doe",
+    "workingdays": 20,
+    "rate": 120
+  },
+  {
+    "id": 3,
+    "name": "Dima",
+    "surname": "Mihalchuk",
+    "workingdays": 22,
+    "rate": 110
+  },
+  {
+    "id": 4,
+    "name": "Oksana",
+    "surname": "Connor",
+    "workingdays": 23,
+    "rate": 100
+  },
+  {
+    "id": 5,
+    "name": "Adam",
+    "surname": "Murphy",
+    "workingdays": 20,
+    "rate": 130
+  }
+]
